@@ -1,1 +1,0 @@
-/home/keetsky/Desktop/tcp/test/client/build/CMakeFiles/client.dir
